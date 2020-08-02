@@ -1,42 +1,54 @@
 \documentclass[12pt]{article}
 \usepackage[utf8]{inputenc}
-\usepackage[a4paper,margin=1in]{geometry}
+\usepackage[a4paper,margin=1in]{geometry}   %% For Margin & Paper Size
 
-\usepackage[T1]{fontenc}
-\usepackage[utf8]{inputenc}
-\usepackage{geometry}
-\geometry{textwidth=10cm}
+\usepackage[T1]{fontenc}    %% For Font
+\geometry{textwidth=10cm}   %% Text Width 
+\usepackage{tgbonum}    %% Font Package Name      
 
-\usepackage{tgbonum}
-
-
+%% Line-space Start
 \usepackage{setspace}
 \setstretch{1.5}
+%% Line-space End
 
+
+%% Header & Footer Start
 \usepackage{fancyhdr}
 \pagestyle{fancy}
-
 \fancyhead{}
 \fancyhead[RO,LE]{Thesis Title}
 \fancyfoot{}
 \fancyfoot[LE,RO]{Author Name}
+%% Header & Footer End
 
+%% Title, Author & Details Start
 \usepackage{blindtext}
 \title{The Triangulation of Titling Data in Non-Linear Gaussian Fashion via $\rho$ Series}
-\date{2017\\ December}
+\date{2017,December}
 \author{John Doe\\ Magic Department, Richard Miles University 
 \and Richard Row, \LaTeX\ Academy}
+%% Title, Author & Details End
+
+
+\usepackage{graphicx}   %% For Image  
 
 \begin{document}
 \maketitle
 
+%% Table of Content
+\tableofcontents
+
+%% Abstract Section
 \section*{Abstract}
 \input{sections/abstract}
 
+%% Introduction Section
 \section{Introduction}
 \input{sections/intoduction}
 
+%% Description Section
 \section{Description}
 \input{sections/description}
+
 
 \end{document}
