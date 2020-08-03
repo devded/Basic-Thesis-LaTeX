@@ -23,20 +23,34 @@
 
 %% Title, Author & Details Start
 \usepackage{blindtext}
-\title{The Triangulation of Titling Data in Non-Linear Gaussian Fashion via $\rho$ Series}
-\date{2017,December}
-\author{John Doe\\ Magic Department, Richard Miles University 
-\and Richard Row, \LaTeX\ Academy}
+\title{FC Barcelona Glory Days }
+\date{2009,December}
+\author{Pep Guardiola, Richard Miles University 
+\and 
+Luis Enrique, Richard Miles University }
 %% Title, Author & Details End
 
 
 \usepackage{graphicx}   %% For Image  
 
 \begin{document}
-\maketitle
+
+\maketitle  %% For Title of the Document
+
+\newpage    %% After That Next Content in New Page 
+            %% \newpage or \clearpage
+
 
 %% Table of Content
 \tableofcontents
+
+%% List of Figure
+\listoffigures
+
+%% List of Table
+\listoftables
+
+\newpage
 
 %% Abstract Section
 \section*{Abstract}
@@ -49,6 +63,10 @@
 %% Description Section
 \section{Description}
 \input{sections/description}
+
+%% Table Section
+\section{Player Table}
+\input{sections/table}
 
 
 \end{document}
