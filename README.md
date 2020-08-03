@@ -13,4 +13,6 @@
 ---
 
 
-![Drag Racing](https://cutt.ly/admyEo3)
+<p align="center">
+  <img src="https://cutt.ly/jdmyMOX"/>
+</p>
