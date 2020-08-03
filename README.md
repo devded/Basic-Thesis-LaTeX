@@ -1,5 +1,9 @@
 ### Basic-Thesis-LaTeX
 
+<p align="center">
+  <img src="https://cutt.ly/jdmyMOX"/>
+</p>
+
 #### Reference 
 
 ---
@@ -11,8 +15,3 @@
 [LaTeX Title Creation (Wikibooks)](https://en.wikibooks.org/wiki/LaTeX/Title_Creation)
 
 ---
-
-
-<p align="center">
-  <img src="https://cutt.ly/jdmyMOX"/>
-</p>
