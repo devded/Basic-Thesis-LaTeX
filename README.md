@@ -1,5 +1,15 @@
 ### Basic-Thesis-LaTeX
 
+---
+### How to Use This Template
+
+- Download The Whole FIle .ZIP Format
+- Go To: https://www.overleaf.com/project
+- Click New Poject
+- Select Upload Project (Upload The .ZIP FIle)
+---
+
+
 <p align="center">
   <img src="https://cutt.ly/jdmyMOX"/>
 </p>
@@ -15,3 +25,5 @@
 [LaTeX Title Creation (Wikibooks)](https://en.wikibooks.org/wiki/LaTeX/Title_Creation)
 
 ---
+
+
