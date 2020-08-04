@@ -29,5 +29,5 @@
 
 ---
 
-### For Primeasia University
+### For Primeasia University & Others
 
