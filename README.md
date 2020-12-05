@@ -18,17 +18,12 @@
 
 ---
 
-[How to Write Thesis Useing LateX - Part 1 (Overleaf)](https://www.overleaf.com/learn/latex/How_to_Write_a_Thesis_in_LaTeX_(Part_1):_Basic_Structure)
+- [How to Write Thesis Useing LateX - Part 1 (Overleaf)](https://www.overleaf.com/learn/latex/How_to_Write_a_Thesis_in_LaTeX_(Part_1):_Basic_Structure)
 
----
+- [LaTeX Title Creation (Wikibooks)](https://en.wikibooks.org/wiki/LaTeX/Title_Creation)
 
-[LaTeX Title Creation (Wikibooks)](https://en.wikibooks.org/wiki/LaTeX/Title_Creation)
+- [Bibliography management with bibtex](https://www.overleaf.com/learn/latex/Bibliography_management_with_bibtex)
 
----
-
-[Bibliography management with bibtex](https://www.overleaf.com/learn/latex/Bibliography_management_with_bibtex)
-
----
 
 ### For Primeasia University & Others
 
