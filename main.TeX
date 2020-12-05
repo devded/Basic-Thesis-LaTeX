@@ -1,6 +1,8 @@
 \documentclass[12pt]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[a4paper,margin=1in]{geometry}   %% For Margin & Paper Size
+\usepackage[english]{babel}
+\usepackage[nottoc]{tocbibind}  %%"Bibliography" in the table of contents
 
 \usepackage[T1]{fontenc}    %% For Font
 \geometry{textwidth=10cm}   %% Text Width 
@@ -18,12 +20,13 @@
 \fancyhead{}
 \fancyhead[RO,LE]{Thesis Title}
 \fancyfoot{}
-\fancyfoot[LE,RO]{Author Name}
+\fancyfoot[LE,RO]{S. M. Dedar Alam}
 %% Header & Footer End
 
 %% Title, Author & Details Start
 \usepackage{blindtext}
-\title{FC Barcelona Glory Days }
+\title{DAWA: Disaster Alert Web Application, a Real-World Application Using Data Mining
+Techniques }
 \date{2009,December}
 \author{Pep Guardiola, Richard Miles University 
 \and 
@@ -69,4 +72,8 @@ Luis Enrique, Richard Miles University }
 \input{sections/table}
 
 
+
+%% Reference Section
+\bibliographystyle{unsrt}
+\bibliography{reference}
 \end{document}

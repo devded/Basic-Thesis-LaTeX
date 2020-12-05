@@ -26,6 +26,7 @@
 
 ---
 
+[Bibliography management with bibtex](https://www.overleaf.com/learn/latex/Bibliography_management_with_bibtex)
 
 ---
 
